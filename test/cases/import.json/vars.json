@@ -1,5 +1,6 @@
 {
   "bg" : "purple",
+  "color" : "#ffca45",
   "spacing" : 0,
   "gutter" : "10px",
   "queries": {
